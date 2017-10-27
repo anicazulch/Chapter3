@@ -33,8 +33,8 @@ public class Stars
     }
     public void patternA(){
         for(int i = 0; i < 10; i++) {
-            printItem("*", i);
-            printItem(" ", 10-i);
+            printItem("*", 10-i);
+            printItem(" ", i);
             System.out.println();
         }
     }
