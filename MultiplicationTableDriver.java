@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class RockDriver here.
+ * Completes a multiplication table
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author A. Zulch
+ * @version 10/26/17
  */
 public class MultiplicationTableDriver
 {
